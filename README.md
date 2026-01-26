@@ -1,2 +1,1 @@
-# python
-python örnek calışma
+Python Yolculugunda öğrenirken yaptığım örnek kodlar.
