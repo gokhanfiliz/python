@@ -1,4 +1,4 @@
-import random # rastgele ayı için ilgili kütüphaneyi ekliyoruz.
+import random # rastgele sayı için ilgili kütüphaneyi ekliyoruz.
 # 3 den 11 arası satırlar tek bir kolon üretmek için.
 """cikan=set()   # cikan sayıları tutmak için set uluşturduk.
 
