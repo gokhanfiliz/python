@@ -9,7 +9,7 @@ islemler = {
 
 while True: # programın ana döngüsü devamlı çalışsın diye
     try: # hataları yaklamaya çalışıyoruz. sıfıra bölme gibi
-        sonuc = float(input("Sayı girin: ")) # sonuc değişkeni bizim em sonucu tutan hemnde ilk rakamı alan değişken
+        sonuc = float(input("Sayı girin: ")) # sonuc değişkeni bizim hem sonucu tutan hemnde ilk rakamı alan değişken
         op = input("İşlem (+ - * /): ") # operaötor seçimini op değişkeni ile alıp daha sonra sözlükte duruma göre işlem yapılacak
 
         if op not in islemler: # +-*/ girilip girilmediğini kotrol ediyoruz.. rakam yada harf girebilir klavyeden.. onun önlemi
