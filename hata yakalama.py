@@ -23,8 +23,8 @@ while True:
     sifre = input(" Parola girişi yapınız! ")
     try:
         kontrol(sifre)
-    except Exception as ex:
-        print(ex)
+    except Exception as hata:
+        print(hata)
     else:
         print("Geçerli Parola..")
         break
